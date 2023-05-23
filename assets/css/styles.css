@@ -743,7 +743,7 @@ the website, in dark theme
   height: 60px;
   border-radius: 100%;
   display: block;
-  background-color: white;
+  background: linear-gradient(to bottom right, #ffffff, #f5f5f5);
   transition: all 265ms ease-out;
 }
 
